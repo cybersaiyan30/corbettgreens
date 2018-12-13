@@ -1,0 +1,22 @@
+.parallax {
+    /* The image used */
+    background-image: url("images/finalbackground.jpg");
+  
+    /* Set a specific height */
+    min-height: 626px; 
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:0.7;
+  }
+  #logoimg{
+      max-height: 150px;
+      margin-top: -12px;
+      margin-bottom: -12px;
+  }
+  .navbar{
+      
+  }
+
